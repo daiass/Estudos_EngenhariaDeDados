@@ -1,5 +1,5 @@
 
-# 📘 Planejamento Semanal – Engenharia de Dados (Zureta)
+# 📘 Planejamento Semanal – Engenharia de Dados
 
 ---
 
